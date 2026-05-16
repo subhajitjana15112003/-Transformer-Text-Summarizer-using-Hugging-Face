@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+venv/
+ml_env/
+
+saved_summary_model/
+
+.vscode/
+.ipynb_checkpoints/
